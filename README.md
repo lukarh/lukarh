@@ -6,8 +6,6 @@
 
 ### About Me
 
-Here are some ideas to get you started:
-
 - 🏫 Carnegie Mellon - Physics '22
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on ...
