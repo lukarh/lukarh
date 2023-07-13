@@ -10,7 +10,8 @@
 - 🔭 I’m currently working on being an aspiring Software Engineer or Data Engineer.
 - 🌱 I’m currently learning full-stack programming.
 - 📫 How to reach me: lwhuang@alumni.cmu.edu
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: ---
+
 
 Programming Languages & IDEs I use often:
 
