@@ -1,5 +1,6 @@
 ## Hey there! 👋
 
+Been coding and doing projects for quite awhile, but never got around to posting them on GitHub, so here I go...
 <!--
 **lukarh/lukarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
