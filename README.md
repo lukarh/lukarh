@@ -8,7 +8,7 @@ Been coding and doing projects for quite awhile, but never got around to posting
 ### About Me
 
 - 🏫 Carnegie Mellon - Physics '22
-- 💻 Self-Taught Programmer who found coding enjoyable after one CS course in University
+- 💻 Self-Taught Programmer for the most part
 - 🔭 I’m currently working on being an aspiring Software Engineer or Data Engineer.
 - 🌱 I’m currently learning full-stack programming.
 - 📫 How to reach me: lwhuang@alumni.cmu.edu
