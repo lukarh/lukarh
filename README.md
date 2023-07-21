@@ -1,6 +1,5 @@
 ## Hey there! 👋
 
-Been coding and doing projects for quite awhile, but never got around to posting them on GitHub until now, so here I go...
 <!--
 **lukarh/lukarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,7 +11,6 @@ Been coding and doing projects for quite awhile, but never got around to posting
 - 🔭 I’m currently working on being an aspiring Software Engineer or Data Engineer.
 - 🌱 I’m currently learning full-stack programming.
 - 📫 How to reach me: lwhuang@alumni.cmu.edu
-- ⚡ Fun facts: Sports Analytics Hobbyist, Data Enthusiast, Basketball & Competitive Sports fanatic
 
 
 Programming Languages & IDEs I use often:
